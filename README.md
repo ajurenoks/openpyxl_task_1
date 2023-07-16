@@ -5,7 +5,7 @@ Write a program that reads information from the file "test1.xlsx" located in the
 
 The existing file contains three columns:
 
-|     id     |     hours&nbsp&nbsp&nbsp&nbsp     |     rate     |
+|     id     |     hours     |     rate     |
 
 To determine the monthly salary, you need to multiply the hourly rate by the specified hours. Be careful - some rows may have incorrect data (text instead of numbers). We recommend checking the data type of the obtained values before performing the calculation.
 
