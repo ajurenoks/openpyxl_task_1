@@ -4,7 +4,8 @@ Course DIP225 practical task Nr.1
 Write a program that reads information from the file "test1.xlsx" located in the "tests" folder and calculates the number of people whose salary is higher than 3000 EUR per month.
 
 The existing file contains three columns:
-|     id     |     hours     |     rate     |
+
+|     id     |     hours&nbsp&nbsp&nbsp&nbsp     |     rate     |
 
 To determine the monthly salary, you need to multiply the hourly rate by the specified hours. Be careful - some rows may have incorrect data (text instead of numbers). We recommend checking the data type of the obtained values before performing the calculation.
 
