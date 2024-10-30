@@ -1,4 +1,4 @@
-# Course DIP225 practical task Nr.1
+# practical task Nr.1
 
 **you should submit your program in result.py file**
 
